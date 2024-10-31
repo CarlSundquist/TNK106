@@ -1,4 +1,4 @@
-%% Uppgift 5, Carl Sundquist (carsu621), TNK106
+%% Uppgift 5, Carl Sundquist (carsu621), TNK106, 2024-10-31
 
 clear all;
 close all;
